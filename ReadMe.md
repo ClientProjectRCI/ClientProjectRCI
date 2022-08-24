@@ -8,8 +8,8 @@ Utilizing HTML, JavaScript, React, Redux, Node, Express, Postgres, Postico, Post
 Instructor: Liz Kerber
 
 Team:
-Miski Ali
-Avery Yang
-Todd McCoy
-Isaac Brist
+Miski Ali,
+Avery Yang,
+Todd McCoy,
+Isaac Brist,
 Nate Notermann
