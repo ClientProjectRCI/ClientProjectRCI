@@ -1,4 +1,4 @@
-###Hello!
+
 
 Client Group Project: RCI - Rochester Community Initiative
 Currently working with a team of developers and RCI to create a scope document. Once approved by client, our team will begin development of the app. 
